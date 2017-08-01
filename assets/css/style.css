@@ -67,3 +67,8 @@ div.header, div.instructions{
 #yellow{
 	color: #ffc225;
 }
+#copy {
+    
+    text-align: center; position: fixed; bottom: 0; width: 100%; background-color: white; margin: auto;
+    
+}
